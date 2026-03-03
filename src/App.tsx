@@ -66,7 +66,7 @@ export default function App() {
   const [activeBrowserUrl, setActiveBrowserUrl] = useState('');
 
   const cloaks: Record<string, { title: string, icon: string }> = {
-    none: { title: 'Nexus Hub', icon: '/favicon.ico' },
+    none: { title: 'Nexus Hub', icon: 'https://cdn-icons-png.flaticon.com/512/686/686589.png' },
     google: { title: 'Google', icon: 'https://www.google.com/favicon.ico' },
     drive: { title: 'My Drive - Google Drive', icon: 'https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png' },
     classroom: { title: 'Classes', icon: 'https://www.gstatic.com/classroom/favicon.png' },
