@@ -1,0 +1,121 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://slopegame.io/slope-game.embed",
+    "mirrors": [
+      "https://kdata1.com/2020/05/slope/",
+      "https://slope-game.github.io/"
+    ]
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/300",
+    "iframeUrl": "https://tunnelrush.io/tunnel-rush.embed",
+    "mirrors": [
+      "https://kdata1.com/2020/05/tunnel-rush/",
+      "https://tunnel-rush.github.io/"
+    ]
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "category": "Sports",
+    "thumbnail": "https://picsum.photos/seed/football/400/300",
+    "iframeUrl": "https://game316009.konggames.com/gamez/0031/6009/live/index.html",
+    "mirrors": [
+      "https://schoolwork-puce.vercel.app/games/retro-bowl/index.html",
+      "https://retrobowl.me/retro-bowl.embed"
+    ]
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.LOL",
+    "category": "Shooter",
+    "thumbnail": "https://picsum.photos/seed/shooter/400/300",
+    "iframeUrl": "https://1v1.lol/",
+    "mirrors": [
+      "https://1v1lol-unblocked-free.github.io/",
+      "https://justbuild.lol/"
+    ]
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "category": "Simulation",
+    "thumbnail": "https://picsum.photos/seed/life/400/300",
+    "iframeUrl": "/bitlife.html"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/subway/400/300",
+    "iframeUrl": "https://kdata1.com/2020/05/subway-surfers/"
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft (Eagler)",
+    "category": "Adventure",
+    "thumbnail": "https://picsum.photos/seed/minecraft/400/300",
+    "iframeUrl": "https://eaglercraft.com/mc/1.8.8/"
+  },
+  {
+    "id": "drift-hunters",
+    "title": "Drift Hunters",
+    "category": "Racing",
+    "thumbnail": "https://picsum.photos/seed/drift/400/300",
+    "iframeUrl": "https://kdata1.com/2020/05/drift-hunters/"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "category": "Platformer",
+    "thumbnail": "https://picsum.photos/seed/geometry/400/300",
+    "iframeUrl": "https://kdata1.com/2020/05/geometry-dash-lite/"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "category": "Idle",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/"
+  },
+  {
+    "id": "temple-run",
+    "title": "Temple Run",
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/temple/400/300",
+    "iframeUrl": "https://kdata1.com/2020/05/temple-run/"
+  },
+  {
+    "id": "youtube",
+    "title": "YouTube",
+    "category": "Apps",
+    "thumbnail": "https://picsum.photos/seed/youtube/400/300",
+    "iframeUrl": "https://pete.sciencetools.cc/scramjet/https://www.youtube.com"
+  },
+  {
+    "id": "web-proxy",
+    "title": "Web Proxy",
+    "category": "Apps",
+    "thumbnail": "https://picsum.photos/seed/proxy/400/300",
+    "iframeUrl": "https://ais-pre-3spwfgjcmbfgqotsoviizc-60560781262.us-east5.run.app/"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/paper/400/300",
+    "iframeUrl": "https://paper-io.com/",
+    "mirrors": [
+      "https://paperio2.online/",
+      "https://paper-io2.com/",
+      "https://pete.sciencetools.cc/scramjet/https://paper-io.com/"
+    ]
+  }
+]
